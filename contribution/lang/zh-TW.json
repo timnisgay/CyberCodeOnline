@@ -3896,7 +3896,7 @@
  	 	 	 	"priceStr",
  	 	 	 	"itemName"
  	 	 	],
- 	 	 	"trans": "你以每件商品的價格為${priceStr}的價格銷售${amountStr} ${itemName}",
+ 	 	 	"trans": "你將以每件商品的價格為${priceStr}的價格銷售${amountStr}個${itemName}",
  	 	 	"eng": "You are selling ${amountStr} ${itemName}(s), at the price of ${priceStr} Per Item"
  	 	},
  	 	"totalConfirm": {
@@ -5081,7 +5081,7 @@
  	 	 	 	 	"amount",
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "購買${itemName}的${amount}",
+ 	 	 	 	"trans": "購買${amount}個${itemName}",
  	 	 	 	"eng": "Buying ${amount} of ${itemName}"
  	 	 	},
  	 	 	"priceDisplay": {
